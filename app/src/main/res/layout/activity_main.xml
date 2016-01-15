@@ -13,7 +13,7 @@
             android:layout_width="356dp"
             android:layout_height="356dp"
             android:id="@+id/imageView"
-            android:layout_gravity="center"
+            android:layout_gravity="center_horizontal|top"
             android:src="@drawable/log" />
     </FrameLayout>
 
